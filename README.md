@@ -1,7 +1,5 @@
-# 电脑博物馆
+# Online computer museum
 Online computer museum for Chinese readers and open source community
-
-DNBWG.com (compumuseum.com) 网站是配合知乎专栏 [古董电脑室](https://zhuanlan.zhihu.com/retrocomputing) 建设的在线电脑模拟器网站，希望能够以一种更直观的方式展示历史上著名的电脑平台的特性。针对中文读者还加入了许多中国市场上独有的硬件和软件平台，包括UCDOS、文曲星电子词典、小霸王学习机、中华学习机等。
 
 ## The Story
 I was live in Canada between 2009~2019 and I've visited several retro-computing and retro-game related events, for example Vintage Computer Fest Northwest in Seattle. But the same time I found (until 2016) there are almost no discussion about retro-computing in Chinese community, there are only (investor) collectors, but no makers, no researchers. There are a small group of retro-gamers, but they only have Famiclones.
